@@ -1,0 +1,15 @@
+C:\Users\XD2\Documents\IT 2830\FinalProject(ServerBoys)\bin\Debug\net7.0\FinalProject(ServerBoys).exe
+C:\Users\XD2\Documents\IT 2830\FinalProject(ServerBoys)\bin\Debug\net7.0\FinalProject(ServerBoys).deps.json
+C:\Users\XD2\Documents\IT 2830\FinalProject(ServerBoys)\bin\Debug\net7.0\FinalProject(ServerBoys).runtimeconfig.json
+C:\Users\XD2\Documents\IT 2830\FinalProject(ServerBoys)\bin\Debug\net7.0\FinalProject(ServerBoys).dll
+C:\Users\XD2\Documents\IT 2830\FinalProject(ServerBoys)\bin\Debug\net7.0\FinalProject(ServerBoys).pdb
+C:\Users\XD2\Documents\IT 2830\FinalProject(ServerBoys)\obj\Debug\net7.0\FinalProject(ServerBoys).csproj.AssemblyReference.cache
+C:\Users\XD2\Documents\IT 2830\FinalProject(ServerBoys)\obj\Debug\net7.0\FinalProject(ServerBoys).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XD2\Documents\IT 2830\FinalProject(ServerBoys)\obj\Debug\net7.0\FinalProject(ServerBoys).AssemblyInfoInputs.cache
+C:\Users\XD2\Documents\IT 2830\FinalProject(ServerBoys)\obj\Debug\net7.0\FinalProject(ServerBoys).AssemblyInfo.cs
+C:\Users\XD2\Documents\IT 2830\FinalProject(ServerBoys)\obj\Debug\net7.0\FinalProject(ServerBoys).csproj.CoreCompileInputs.cache
+C:\Users\XD2\Documents\IT 2830\FinalProject(ServerBoys)\obj\Debug\net7.0\FinalProject(ServerBoys).dll
+C:\Users\XD2\Documents\IT 2830\FinalProject(ServerBoys)\obj\Debug\net7.0\refint\FinalProject(ServerBoys).dll
+C:\Users\XD2\Documents\IT 2830\FinalProject(ServerBoys)\obj\Debug\net7.0\FinalProject(ServerBoys).pdb
+C:\Users\XD2\Documents\IT 2830\FinalProject(ServerBoys)\obj\Debug\net7.0\FinalProject(ServerBoys).genruntimeconfig.cache
+C:\Users\XD2\Documents\IT 2830\FinalProject(ServerBoys)\obj\Debug\net7.0\ref\FinalProject(ServerBoys).dll
